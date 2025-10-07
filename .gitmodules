@@ -1,0 +1,3 @@
+[submodule "solana-starter"]
+	path = solana-starter
+	url = git@github.com:sthitasahu/solana-starter.git
